@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Sp1riT42/node-learning#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "lazy": "^1.0.11"
   }
 }
